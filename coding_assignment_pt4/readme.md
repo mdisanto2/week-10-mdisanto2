@@ -5,8 +5,8 @@
 
 ## Practice: You be able to ...
 * Create and populate Pandas DataFrames from data files
-* Feed DataFrame data to NumPy
-* Read and write CSV files using NumPy
+* Calculate values in Pandas
+* Read and write CSV files using Pandas
 
 ## Instructions
 1. __Open the `HealthStatsPart4.ipynb` file in Jupyter.__ The file already has the corrected Python code from class.
